@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamran KB</h1>
 <h3 align="center">A passionate full stack developer from 🇵🇰 Pakistan</h3>
 
-- 💬 Ask me about **PHP, Laravel, WordPress, JavaScript**
+- 💬 Ask me about **PHP, Laravel, VueJS, JavaScript**
 
 - 📫 How to reach me **thekamrankb@gmail.com**
 
