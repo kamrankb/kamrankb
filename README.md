@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-💬 Ask me about PHP (Laravel, CodeIgniter), JavaScript(VueJS, Nuxt)<br>📫 Feel free to reach me thekamrankb@gmail.com <br>⚡ I love programming, learning architecture and interested in Rust
+💬 Ask me about PHP (Laravel, CodeIgniter), JavaScript(VueJS, Nuxt)<br>📫 Feel free to reach me thekamrankb@gmail.com <br>⚡ I love programming, learning architecture & Design patterns and interested in Rust, NodeJS
 
 
 ## 🌐 Socials:
@@ -15,6 +15,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kamrankb&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrankb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=kamrankb&icon=0&color=12)](https://visitcount.itsvg.in)
 
